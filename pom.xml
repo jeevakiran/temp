@@ -12,6 +12,7 @@
     <artifactId>detailsapp</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>detailsapp</name>
+    <packaging>war</packaging>
     <description>Demo project for integrating with Angular</description>
 
     <properties>
